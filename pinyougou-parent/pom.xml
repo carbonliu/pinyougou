@@ -273,7 +273,7 @@
 	
 	</build>
 	<modules>
-		<module>pinyougou-pojoe</module>
+		<module>pinyougou-pojo</module>
 		<module>pinyougou-dao</module>
 		<module>pinyougou-common</module>
 		<module>pinyougou-sellergoods-interface</module>
@@ -283,5 +283,9 @@
 		<module>pinyougou-content-interface</module>
 		<module>pinyougou-content-service</module>
 		<module>pinyougou-protal-web</module>
-	</modules>
+        <module>pinyougou-solr-util</module>
+		<module>pinyougou-search-interface</module>
+		<module>pinyougou-search-service</module>
+        <module>pinyougou-search-web</module>
+    </modules>
 </project>
