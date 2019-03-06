@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:19:42:43 +0800] "GET /cart/addGoodsToCartList.do?itemId=1369280&num=1 HTTP/1.1" 500 13430 http-bio-9107-exec-1 6680
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:19:44:28 +0800] "GET /cart/addGoodsToCartList.do?itemId=1369280&num=1 HTTP/1.1" 500 13427 http-bio-9107-exec-1 6626
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:19:44:32 +0800] "GET /cart/addGoodsToCartList.do?itemId=1369280&num=1 HTTP/1.1" 500 13427 http-bio-9107-exec-2 297
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:19:45:14 +0800] "GET /cart/addGoodsToCartList.do?itemId=1369280&num=1 HTTP/1.1" 500 13427 http-bio-9107-exec-4 294
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:36:48 +0800] "GET /cart/addGoodsToCartList.do?itemId=1369280&num=1 HTTP/1.1" 500 13427 http-bio-9107-exec-5 4506
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:43:33 +0800] "GET /cart/addGoodsToCartList.do?itemId=1369280&num=1 HTTP/1.1" 500 13427 http-bio-9107-exec-6 1664
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:20:46:52 +0800] "GET /cart/addGoodsToCartList.do?itemId=1369280&num=1 HTTP/1.1" 500 13430 http-bio-9107-exec-1 6583
+0:0:0:0:0:0:0:1 - - [26/Dec/2018:21:41:29 +0800] "GET /cart/addGoodsToCartList.do?itemId=1369280&num=1 HTTP/1.1" 500 13430 http-bio-9107-exec-2 336
